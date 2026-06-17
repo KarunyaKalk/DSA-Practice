@@ -1,2 +1,2 @@
 # DSA-Practice
-Practicing codes.
+Revisiting and practicing all the DSA concepts.
